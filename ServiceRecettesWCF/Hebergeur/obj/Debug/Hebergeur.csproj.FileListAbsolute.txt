@@ -1,0 +1,11 @@
+C:\Users\Oguerisck\source\repos\ServiceRecettesWCF\Hebergeur\bin\Debug\Hebergeur.exe.config
+C:\Users\Oguerisck\source\repos\ServiceRecettesWCF\Hebergeur\bin\Debug\Hebergeur.exe
+C:\Users\Oguerisck\source\repos\ServiceRecettesWCF\Hebergeur\bin\Debug\Hebergeur.pdb
+C:\Users\Oguerisck\source\repos\ServiceRecettesWCF\Hebergeur\bin\Debug\ServiceRecettesWCF.dll
+C:\Users\Oguerisck\source\repos\ServiceRecettesWCF\Hebergeur\bin\Debug\Share.dll
+C:\Users\Oguerisck\source\repos\ServiceRecettesWCF\Hebergeur\bin\Debug\ServiceRecettesWCF.pdb
+C:\Users\Oguerisck\source\repos\ServiceRecettesWCF\Hebergeur\bin\Debug\Share.pdb
+C:\Users\Oguerisck\source\repos\ServiceRecettesWCF\Hebergeur\obj\Debug\Hebergeur.csprojResolveAssemblyReference.cache
+C:\Users\Oguerisck\source\repos\ServiceRecettesWCF\Hebergeur\obj\Debug\Hebergeur.csproj.CoreCompileInputs.cache
+C:\Users\Oguerisck\source\repos\ServiceRecettesWCF\Hebergeur\obj\Debug\Hebergeur.exe
+C:\Users\Oguerisck\source\repos\ServiceRecettesWCF\Hebergeur\obj\Debug\Hebergeur.pdb

@@ -1,0 +1,9 @@
+c:\users\oguerisck\source\repos\ClientRecette\ClientRecette\bin\Debug\ClientRecette.exe.config
+c:\users\oguerisck\source\repos\ClientRecette\ClientRecette\bin\Debug\ClientRecette.exe
+c:\users\oguerisck\source\repos\ClientRecette\ClientRecette\bin\Debug\ClientRecette.pdb
+c:\users\oguerisck\source\repos\ClientRecette\ClientRecette\bin\Debug\Share.dll
+c:\users\oguerisck\source\repos\ClientRecette\ClientRecette\bin\Debug\Share.pdb
+c:\users\oguerisck\source\repos\ClientRecette\ClientRecette\obj\Debug\ClientRecette.csprojResolveAssemblyReference.cache
+c:\users\oguerisck\source\repos\ClientRecette\ClientRecette\obj\Debug\ClientRecette.csproj.CoreCompileInputs.cache
+c:\users\oguerisck\source\repos\ClientRecette\ClientRecette\obj\Debug\ClientRecette.exe
+c:\users\oguerisck\source\repos\ClientRecette\ClientRecette\obj\Debug\ClientRecette.pdb

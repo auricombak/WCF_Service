@@ -1,0 +1,8 @@
+C:\Users\Oguerisck\source\repos\ServiceRecettesWCF\ServiceRecettesWCF\bin\Debug\ServiceRecettesWCF.dll
+C:\Users\Oguerisck\source\repos\ServiceRecettesWCF\ServiceRecettesWCF\bin\Debug\ServiceRecettesWCF.pdb
+C:\Users\Oguerisck\source\repos\ServiceRecettesWCF\ServiceRecettesWCF\bin\Debug\Share.dll
+C:\Users\Oguerisck\source\repos\ServiceRecettesWCF\ServiceRecettesWCF\bin\Debug\Share.pdb
+C:\Users\Oguerisck\source\repos\ServiceRecettesWCF\ServiceRecettesWCF\obj\Debug\ServiceRecettesWCF.csprojResolveAssemblyReference.cache
+C:\Users\Oguerisck\source\repos\ServiceRecettesWCF\ServiceRecettesWCF\obj\Debug\ServiceRecettesWCF.csproj.CoreCompileInputs.cache
+C:\Users\Oguerisck\source\repos\ServiceRecettesWCF\ServiceRecettesWCF\obj\Debug\ServiceRecettesWCF.dll
+C:\Users\Oguerisck\source\repos\ServiceRecettesWCF\ServiceRecettesWCF\obj\Debug\ServiceRecettesWCF.pdb

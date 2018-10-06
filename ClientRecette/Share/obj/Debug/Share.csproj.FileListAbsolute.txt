@@ -1,0 +1,12 @@
+C:\Users\Oguerisck\source\repos\ServiceRecettesWCF\Share\obj\Debug\Share.csprojResolveAssemblyReference.cache
+C:\Users\Oguerisck\source\repos\ServiceRecettesWCF\Share\obj\Debug\Share.csproj.CoreCompileInputs.cache
+C:\Users\Oguerisck\source\repos\ServiceRecettesWCF\Share\bin\Debug\Share.dll
+C:\Users\Oguerisck\source\repos\ServiceRecettesWCF\Share\bin\Debug\Share.pdb
+C:\Users\Oguerisck\source\repos\ServiceRecettesWCF\Share\obj\Debug\Share.dll
+C:\Users\Oguerisck\source\repos\ServiceRecettesWCF\Share\obj\Debug\Share.pdb
+C:\Users\Oguerisck\source\repos\ClientRecette\Share\bin\Debug\Share.dll
+C:\Users\Oguerisck\source\repos\ClientRecette\Share\bin\Debug\Share.pdb
+C:\Users\Oguerisck\source\repos\ClientRecette\Share\obj\Debug\Share.csprojResolveAssemblyReference.cache
+C:\Users\Oguerisck\source\repos\ClientRecette\Share\obj\Debug\Share.csproj.CoreCompileInputs.cache
+C:\Users\Oguerisck\source\repos\ClientRecette\Share\obj\Debug\Share.dll
+C:\Users\Oguerisck\source\repos\ClientRecette\Share\obj\Debug\Share.pdb
